@@ -1,0 +1,7 @@
+language: python
+python:
+  -"3.4"
+before_scritp
+  -cd src
+script
+  -pytohn testes.py
